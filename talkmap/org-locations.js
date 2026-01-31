@@ -40,6 +40,11 @@ var addressPoints = [
     3.8595132
   ],
   [
+    "Orphan nisin immunity genes are widespread across the Bacillota<br />International Scientific Association for Probiotics and Prebiotics; Denver, USA",
+    39.7392364,
+    -104.984862
+  ],
+  [
     "Actifensins, defensin-like bacteriocins produced by oral and gut microbes<br />APC Microbiome Ireland Research Forum; Cork, Ireland",
     51.8985136,
     -8.4726423
