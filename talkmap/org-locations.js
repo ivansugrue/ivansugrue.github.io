@@ -30,6 +30,11 @@ var addressPoints = [
     -6.2544278
   ],
   [
+    "\u201cNovel bacteriocin alternatives to antibiotics\u201d<br />7th International Symposium on Antimicrobial Peptides; Paris, France",
+    48.8534951,
+    2.3483915
+  ],
+  [
     "Trans-kingdom conservation of structure and mechanism in defensin-like peptides<br />FEMS Micro; Milan, Italy",
     45.4641943,
     9.1896346
