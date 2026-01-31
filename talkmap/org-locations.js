@@ -25,12 +25,17 @@ var addressPoints = [
     -104.984862
   ],
   [
+    "Broadening bacteriocin boundaries \u2013 Antimicrobial discovery and characterisation<br />Postdoctoral Research Symposium; Cork, Ireland",
+    51.8985136,
+    -8.4726423
+  ],
+  [
     "Broadening bacteriocin boundaries \u2013 expanding the repertoire of known antimicrobial peptides<br />Microbiome and Mucosa-Associated Infectious Disease: Mining for Antimicrobials and Postbiotics with Therapeutic Potential; Trinity College Dublin, Ireland",
     53.3437061,
     -6.2544278
   ],
   [
-    "\u201cNovel bacteriocin alternatives to antibiotics\u201d<br />7th International Symposium on Antimicrobial Peptides; Paris, France",
+    "Novel bacteriocin alternatives to antibiotics<br />7th International Symposium on Antimicrobial Peptides; Paris, France",
     48.8534951,
     2.3483915
   ],
@@ -38,6 +43,11 @@ var addressPoints = [
     "Trans-kingdom conservation of structure and mechanism in defensin-like peptides<br />FEMS Micro; Milan, Italy",
     45.4641943,
     9.1896346
+  ],
+  [
+    "Defensin-like bacteriocins, a previously undiscovered group of class II bacteriocins<br />International Scientific Association for Probiotics and Prebiotics; Antwerp, Belgium",
+    51.2211097,
+    4.3997081
   ],
   [
     "Bacteriocins from interbacterial warfare as antibiotic alternatives<br />IN-ARMOR Antimicrobial Resistance Day Webinar Event; Online",
@@ -50,6 +60,11 @@ var addressPoints = [
     -104.984862
   ],
   [
+    "Characterisation of bacterial isolates from unpasteurised milk and milk products for bacteriocin and biogenic amine production<br />SPSAS on Reverse Engineering of Processed Foods,; University of Campinas, Campinas, Brazil",
+    -27.5950893,
+    -48.6159301
+  ],
+  [
     "Actifensins, defensin-like bacteriocins produced by oral and gut microbes<br />APC Microbiome Ireland Research Forum; Cork, Ireland",
     51.8985136,
     -8.4726423
@@ -58,5 +73,10 @@ var addressPoints = [
     "Exploitation of Pichia pastoris (Komagataella phaffii) for production of actifensin and variants<br />APC Annual Symposium; Cork, Ireland",
     51.8985136,
     -8.4726423
+  ],
+  [
+    "From zone to genome: Identification of a novel group of bacteriocins within the genus Actinomyces<br />Host\u2013Bacteria Interaction Symposium; University of Reading, UK",
+    51.4404358,
+    -0.9417618
   ]
 ];
