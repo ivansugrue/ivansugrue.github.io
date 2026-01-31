@@ -1,6 +1,6 @@
 ---
-title: “Characterisation of bacterial isolates from unpasteurised milk and milk products for bacteriocin and
-biogenic amine production”
+title: "Characterisation of bacterial isolates from unpasteurised milk and milk products for bacteriocin and
+biogenic amine production"
 collection: posters
 type: "poster"
 permalink: /talks/2017-10-07-characterisation-of-bacterial-isolates
