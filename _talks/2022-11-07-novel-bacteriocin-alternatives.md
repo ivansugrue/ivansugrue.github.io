@@ -1,6 +1,6 @@
 ---
 title: “Novel bacteriocin alternatives to antibiotics”
-collection: talks
+collection: posters
 type: "poster"
 permalink: /talks/2022-11-07-novel-bacteriocin-alternatives
 venue: "7th International Symposium on Antimicrobial Peptides"
