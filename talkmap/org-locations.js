@@ -26,8 +26,8 @@ var addressPoints = [
   ],
   [
     "Broadening bacteriocin boundaries \u2013 expanding the repertoire of known antimicrobial peptides<br />Microbiome and Mucosa-Associated Infectious Disease: Mining for Antimicrobials and Postbiotics with Therapeutic Potential; Trinity College Dublin, Ireland",
-    53.3438434,
-    -6.2543853
+    53.3437061,
+    -6.2544278
   ],
   [
     "Trans-kingdom conservation of structure and mechanism in defensin-like peptides<br />FEMS Micro; Milan, Italy",
