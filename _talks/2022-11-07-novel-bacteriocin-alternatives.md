@@ -1,5 +1,5 @@
 ---
-title: “Novel bacteriocin alternatives to antibiotics”
+title: "Novel bacteriocin alternatives to antibiotics"
 collection: posters
 type: "poster"
 permalink: /talks/2022-11-07-novel-bacteriocin-alternatives
