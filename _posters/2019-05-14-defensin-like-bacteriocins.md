@@ -1,0 +1,9 @@
+---
+title: "Defensin-like bacteriocins, a previously undiscovered group of class II bacteriocins"
+collection: posters
+type: "poster"
+permalink: /talks/2019-05-14-defensin-like-bacteriocins
+venue: "International Scientific Association for Probiotics and Prebiotics"
+date: 2019-05-14
+location: "Antwerp, Belgium"
+---
