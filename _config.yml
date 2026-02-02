@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/profile.jpeg"
+  avatar           : "assets/Subject.png"
   name             : "Ivan Sugrue"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Expert in bacteriocin and microbiome research, driven by curiosity towards antimicrobial mechanisms and solutions."
