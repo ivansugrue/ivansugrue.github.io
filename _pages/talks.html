@@ -9,7 +9,7 @@ author_profile: true
 {% assign title_shown = false %}
 {% for post in site.talks reversed %}
   {% unless title_shown %}
-    <h2>Oral Presentations</h2><hr />
+    <h2>Talks</h2><hr />
     {% assign title_shown = true %}
   {% endunless %}
   {% include archive-single-talk.html %}
@@ -18,7 +18,7 @@ author_profile: true
 {% assign title_shown = false %}
 {% for post in site.posters reversed %}
   {% unless title_shown %}
-    <h2>Poster Presentations</h2><hr />
+    <h2>Posters</h2><hr />
     {% assign title_shown = true %}
   {% endunless %}
   {% include archive-single-talk.html %}
