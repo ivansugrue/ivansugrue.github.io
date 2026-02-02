@@ -11,6 +11,14 @@ author_profile: true
 
 {% endif %}
 
+## Oral Presentations
+
 {% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+## Poster Presentations
+
+{% for post in site.posters reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
