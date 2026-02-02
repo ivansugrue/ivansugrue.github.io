@@ -28,7 +28,9 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Expert in bacteriocin and microbiome research, driven by curiosity towards antimicrobial mechanisms and solutions."
   location         : "Cork, Ireland"
-  employer         : "University College Cork, APC Microbiome Ireland"
+  employer         : |
+  University College Cork
+  APC Microbiome Ireland
   uri              : # URL
   email            : "isugrue@ucc.ie" 
 
