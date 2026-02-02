@@ -4,21 +4,22 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+{% include base_path %}
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-## Oral Presentations
-
+{% assign title_shown = false %}
 {% for post in site.talks reversed %}
+  {% unless title_shown %}
+    <h2>Oral Presentations</h2><hr />
+    {% assign title_shown = true %}
+  {% endunless %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
-## Poster Presentations
-
+{% assign title_shown = false %}
 {% for post in site.posters reversed %}
+  {% unless title_shown %}
+    <h2>Poster Presentations</h2><hr />
+    {% assign title_shown = true %}
+  {% endunless %}
   {% include archive-single-talk.html %}
 {% endfor %}
